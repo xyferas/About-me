@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Xyferas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Xyferas)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Xyferas)](https://xyferas.vercel.app)
 
   ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xyferas)

@@ -32,10 +32,10 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/aswinmuralik"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:aswinmuralik@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://github.com/Xyferas"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/Xyferas"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a><br>
   <a href="https://xyferas.vercel.app"><img src="https://img.shields.io/badge/Visit_My_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
